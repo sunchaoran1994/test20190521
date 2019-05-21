@@ -2,8 +2,6 @@
 我修改了
 我也修改了
 使用newbranch2修改了数据
-<<<<<<< HEAD
 使用newbranch1修改了数据
-=======
 又使用newbranch2修改了数据
->>>>>>> newbranch2
+
